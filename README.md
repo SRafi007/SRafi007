@@ -23,6 +23,12 @@
 
 ###
 
+
+<h1 align="center">Tools</h1>
+
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -58,6 +64,11 @@
 
 ###
 
+
+
+<h1 align="center">Social Media</h1>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sadman-sakib-rafi-4aa656246" target="_blank">
