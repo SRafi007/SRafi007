@@ -84,11 +84,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?
-username=SRafi007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" 
+username=SRafi007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" 
 alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SRafi007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph" />
 </div>
-###
-<!-- GitHub activity streak -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SRafi007&show_icons=true&locale=en&theme=chartreuse-dark" alt="rafi" /></p>
-
