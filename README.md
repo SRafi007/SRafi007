@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SRafi007&repo=your-repo-name&theme=chartreuse-dark&hide_border=false" height="150" alt="Repository Card" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SRafi007&repo=your-repo-name&theme=dracula&hide_border=false" height="150" alt="Repository Card" />
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=SRafi007&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
