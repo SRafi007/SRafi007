@@ -56,6 +56,8 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SRafi007&theme=chartreuse-dark&hide_border=false" height="150" alt="Wakatime Stats" />
 
+<img src="https://github-readme-activity-graph.cyclic.app/api?username=SRafi007&theme=chartreuse-dark&hide_border=false" alt="Contribution Graph" />
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=SRafi007&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
 
