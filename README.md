@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SRafi007&theme=chartreuse-dark&hide_border=false" height="150" alt="Wakatime Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SRafi007&theme=chartreuse-dark&hide_border=false&card_width=320" height="150" alt="Wakatime Stats" />
 
 
 
