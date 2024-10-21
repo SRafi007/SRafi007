@@ -60,3 +60,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SRafi007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph" />
 </div>
+
+<!-- GitHub contribution Graph -->
+[![Shadik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SRafi007&bg_color=2E3440&color=88C0D0&line=81A1C1&point=5E81AC&area=true&hide_border=true)](https://github.com/SRafi007/github-readme-activity-graph)
