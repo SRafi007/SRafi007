@@ -58,7 +58,6 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SRafi007" alt="GitHub Streak" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SRafi007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph" />
 </div>
