@@ -1,72 +1,98 @@
 <h1 align="center">Hi, I'm Rafi 👋</h1>
-<h3 align="center">AI Developer • ML Engineer • Full-Stack Builder</h3>
+<h3 align="center">AI & Machine Learning Engineer • LLM Systems • Backend-Focused</h3>
 
 <p align="center">
-  Passionate about intelligent systems, LLM applications, multi-agent workflows, and scalable AI products.<br>
-  I build practical AI tools — from RAG chatbots to CV ranking systems — combining machine learning with real engineering.<br><br>
+  I build production-oriented AI systems — from LLM fine-tuning pipelines to scalable multi-agent platforms.<br>
+  Strong focus on real-world deployment, backend orchestration, and explainable AI products.<br><br>
   🌐 Portfolio: <a href="https://sadmansakibrafi.vercel.app">sadmansakibrafi.vercel.app</a><br>
   📩 Email: <a href="mailto:sadmansakibrafi.hey@gmail.com">sadmansakibrafi.hey@gmail.com</a>
 </p>
 
 ---
 
-## 🚀 What I Work On
-- LLM-based systems (Gemini, LLaMA, Qwen, Mistral)
-- Multi-agent workflows (CrewAI, custom agent frameworks)
-- RAG pipelines (Qdrant, Pinecone, FAISS)
-- AI-driven platforms for automation, ranking, and analysis
-- Full-stack engineering with FastAPI, Next.js, and NestJS
-- Local + cloud AI infrastructure (Ollama, Docker)
+## 🧠 What I Focus On
+- Large Language Models (LLMs): fine-tuning, prompting, evaluation
+- Multi-agent AI systems & orchestration
+- AI-driven backend platforms (FastAPI, NestJS)
+- Vector search & semantic retrieval (Pinecone, FAISS, Qdrant)
+- Production-ready AI pipelines (local + cloud)
+- Explainable & scalable AI products
 
 ---
 
-## 🧠 Core Skills & Tools
+## 🛠 Core Skills
 
-### **AI / ML**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"/> 
-  <img src="https://ollama.com/public/ollama.png" height="40" alt="Ollama"/>
-</div>
+### **AI / Machine Learning**
+- Supervised Learning, Classification, NLP  
+- Large Language Models (LLMs)  
+- Prompt Engineering & SFT  
+- LoRA / Parameter-Efficient Fine-Tuning  
 
-### **Frameworks & Databases**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-</div>
-
-### **Full-Stack Development**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
-</div>
+**Tools & Libraries:**  
+Hugging Face, Scikit-learn, LangChain, CrewAI, Ollama, Gemini
 
 ---
 
-## 🛠 Featured Projects
+### **Backend & Systems**
+- FastAPI, NestJS, ASP.NET  
+- REST API design & integration  
+- Context memory, tool calling, agent routing  
+- Vector embeddings & similarity search  
 
-### 🔹 **Phone Query Review System**
-LLM-powered phone specification retrieval + contextual review generator using RAG and multi-agent logic.
+---
 
-### 🔹 **IntelliHire AI — CV Ranking System**
-Ranks resumes using hybrid AI pipelines, embeddings, and explainable scoring (Qdrant + Qwen 2.5 7B).
+### **Programming**
+- Python (primary)
+- JavaScript / TypeScript
+- C++, C#
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 **Multi-Agent AI Assistant System**
+Backend-focused AI assistant platform built with FastAPI.  
+Implements agent routing, short-term memory, vector embeddings, and LLM abstraction layers for scalable reasoning.
+
+---
+
+### 🔹 **HireSenseAI — CV Ranking System**
+AI-driven recruitment system that semantically analyzes and ranks resumes against job requirements.  
+Supports batch CV ingestion, gap detection, and explainable scoring using a hybrid LLM pipeline (Gemini + Ollama) and Pinecone.
+
+---
 
 ### 🔹 **MyCaptionAI**
-Generates contextual social media captions through an AI-driven API service.
+API-based AI service that generates contextual social media captions for Facebook, Instagram, and Twitter.
+
+---
 
 ### 🔹 **AI Tutorial Crew**
-A multi-agent learning assistant using CrewAI + local LLMs (Ollama-Mistral).
+Multi-agent tutorial generation system using CrewAI and Ollama-Mistral.  
+Designed for local inference, privacy, and fast iteration.
 
-### 🔹 **Jervis — AI Assistant**
-Context-aware multi-agent personal assistant using FAISS + Qwen/Mistral.
+---
+
+### 🔹 **Automated Conversation Platform**
+Ongoing project: real-time AI assistant for automated business interactions.  
+Focuses on backend orchestration, context memory, tool calling, and extensible APIs for chat and voice.
+
+---
+
+## 🧪 Selected ML Work
+
+- **Supervised Fine-Tuning (LLMs):**  
+  Fine-tuned Qwen3-1.7B-Instruct to convert unstructured sales data into structured lead intelligence.
+
+- **LoRA Fine-Tuning (NLP):**  
+  Fine-tuned DistilRoBERTa on IMDB using LoRA for efficient sentiment classification.
+
+---
+
+## 🎓 Education
+**BSc in Computer Science & Engineering (Software Engineering)**  
+American International University-Bangladesh (AIUB)  
+GPA: **3.64 / 4.00**
 
 ---
 
@@ -75,19 +101,14 @@ Context-aware multi-agent personal assistant using FAISS + Qwen/Mistral.
   <a href="https://www.linkedin.com/in/sadman-sakib-rafi-4aa656246">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
   </a>
-  <a href="https://twitter.com/someusername">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40"/>
+  <a href="https://github.com/SRafi007">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="40"/>
   </a>
-  <a href="https://www.facebook.com/ssrafi07">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40"/>
+  <a href="https://www.kaggle.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40"/>
   </a>
 </p>
 
-
-###
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SRafi007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SRafi007&layout=compact&theme=chartreuse-dark" height="150"/>
 </div>
-<!-- GitHub contribution Graph -->
